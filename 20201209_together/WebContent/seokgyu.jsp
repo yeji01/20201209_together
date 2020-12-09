@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>받기...</h1>
-
+<h1>나도받기//</h1>
 </body>
 </html>
