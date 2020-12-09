@@ -6,6 +6,7 @@ public class ConflictMain {
 		System.out.println("AAAAA");
 		System.out.println("CCCCC");
 		System.out.println("DDDDD_su");
+		System.out.println("완료");
 	}
 
 }
